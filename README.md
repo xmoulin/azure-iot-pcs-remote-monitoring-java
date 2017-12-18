@@ -77,7 +77,7 @@ Getting Started
     ```
 1. Set up command line interface for deployments
     ```
-    cd pcs-cli
+    cd azure-iot-pcs-remote-monitoring-java\cli
     npm install
     npm start
     npm link
